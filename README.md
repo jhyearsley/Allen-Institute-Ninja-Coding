@@ -8,6 +8,7 @@ How to become a bonafide Allen Institute Coding Ninja
 
 # [About Me](images/purity.png)
 
+- Noob Mathematician pretending to be a Neuroscientist for now and loving it :)
 
 
 
