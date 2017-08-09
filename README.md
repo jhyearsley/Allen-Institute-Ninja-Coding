@@ -5,6 +5,16 @@ How to become a bonafide Allen Institute Coding Ninja
 
 # Links
 
-[Numpy Documentation Standards](https://github.com/numpy/numpy/blob/master/doc/HOWTO_DOCUMENT.rst.txt)
 
-[Retinotopic Mapping documentation](http://retinotopic-mapping.readthedocs.io/en/latest/)
+[Retinotopic Mapping documentation](
+http://retinotopic-mapping.readthedocs.io/en/latest/) - If you want to check
+out our package more in depth!
+
+[Numpy Documentation Standards](
+https://github.com/numpy/numpy/blob/master/doc/HOWTO_DOCUMENT.rst.txt)
+- Use this to learn how to write consistent documentation
+that python users can understand!
+
+[Sphinx] (http://www.sphinx-doc.org/en/stable/index.html) - BLACK MAGIC!
+Use this to automatically generate html websites for your documentation!!! 
+A must learn if you want to share your work with a larger audience.
