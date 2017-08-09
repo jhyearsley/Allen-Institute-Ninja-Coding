@@ -6,13 +6,15 @@ How to become a bonafide Allen Institute Coding Ninja
 
 
 
-# [About Me](AboutMe.md)
+# [About Me](AboutMe.md) - A quick introduction.
 
-- Insert content where I tell you what I'm about...
 
-# What do I do at the Allen Institute
+
+# [What do I do at the Allen Institute](WhatIDo.md)?
 
 - I only have 7 minutes so don't let me get distracted...
+
+#
 
 
 
