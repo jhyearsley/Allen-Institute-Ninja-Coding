@@ -3,7 +3,10 @@ How to become a bonafide Allen Institute Coding Ninja
 
 ![coding ninja](images/coding_ninja.png)
 
-# [About Me!](images/purity.png)
+
+
+
+# [About Me](images/purity.png)
 
 
 
