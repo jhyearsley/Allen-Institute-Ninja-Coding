@@ -26,7 +26,7 @@ How to become a bonafide Allen Institute Coding Ninja
 ![raspi_cluster](images/raspi_all.png)
 
 -  Blog
-
+![blog](images/blog.png)
 
 
 
