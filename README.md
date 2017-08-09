@@ -20,6 +20,7 @@ How to become a bonafide Allen Institute Coding Ninja
 # Side Projects - if I have time!
 
 - Adding Plaid Stimulus to Aibstim
+![plaid_stim](images/plaid_stim)
 
 - Cloud Computing Practice
 ![raspi_cluster](images/raspi_all.png)
