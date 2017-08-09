@@ -17,7 +17,7 @@ How to become a bonafide Allen Institute Coding Ninja
 # [My Project](https://github.com/jhyearsley/retinotopic_mapping/tree/dev) - Onto the real content.
 
 
-# Side Projects (if I have time!)
+# Side Projects - if I have time!
 
 ## Adding Plaid Stimulus to Aibstim
 
