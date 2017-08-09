@@ -8,7 +8,11 @@ How to become a bonafide Allen Institute Coding Ninja
 
 # [About Me](images/purity.png)
 
-- Noob Mathematician pretending to be a Neuroscientist for now and loving it :)
+- Insert content where I tell you what I'm about...
+
+# What do I do at the Allen Institute
+
+- I only have 7 minutes so don't let me get distracted...
 
 
 
