@@ -10,7 +10,7 @@ How to become a bonafide Allen Institute Coding Ninja
 
 
 
-# [What do I do at the Allen Institute](WhatIDo.md)?
+# [What do I do at the Allen Institute](WhatIDo.md)? - Now I tell you what I'm all about.
 
 - I only have 7 minutes so don't let me get distracted...
 
