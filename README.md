@@ -14,7 +14,7 @@ How to become a bonafide Allen Institute Coding Ninja
 
 - I only have 7 minutes so don't let me get distracted...
 
-#
+# [My Project](https://github.com/jhyearsley/retinotopic_mapping/tree/dev) - Onto the real content.
 
 
 
