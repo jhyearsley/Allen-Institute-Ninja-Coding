@@ -18,3 +18,6 @@ that python users can understand!
 [Sphinx](http://www.sphinx-doc.org/en/stable/index.html) - BLACK MAGIC!
 Use this to automatically generate html websites for your documentation!!! 
 A must learn if you want to share your work with a larger audience.
+
+[raspberry pi tutorial](http://makezine.com/projects/build-a-compact-4-node-raspberry-pi-cluster/) -
+If you want to build your own raspberry pi cluster for fun, this is the tutorial I followed.
