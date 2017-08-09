@@ -6,7 +6,7 @@ How to become a bonafide Allen Institute Coding Ninja
 
 
 
-# [About Me](images/purity.png)
+# [About Me](AboutMe.md)
 
 - Insert content where I tell you what I'm about...
 
